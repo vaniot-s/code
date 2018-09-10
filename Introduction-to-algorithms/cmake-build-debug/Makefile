@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named unique
+
+# Build rule for target.
+unique: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 unique
+.PHONY : unique
+
+# fast build rule for target.
+unique/fast:
+	$(MAKE) -f CMakeFiles/unique.dir/build.make CMakeFiles/unique.dir/build
+.PHONY : unique/fast
+
+#=============================================================================
 # Target rules for targets named Introduction_to_algorithms
 
 # Build rule for target.
@@ -124,17 +137,17 @@ Introduction_to_algorithms/fast:
 .PHONY : Introduction_to_algorithms/fast
 
 #=============================================================================
-# Target rules for targets named unique
+# Target rules for targets named test
 
 # Build rule for target.
-unique: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 unique
-.PHONY : unique
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
 
 # fast build rule for target.
-unique/fast:
-	$(MAKE) -f CMakeFiles/unique.dir/build.make CMakeFiles/unique.dir/build
-.PHONY : unique/fast
+test/fast:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
 
 billian-sort.o: billian-sort.cpp.o
 
@@ -162,6 +175,33 @@ billian-sort.s: billian-sort.cpp.s
 billian-sort.cpp.s:
 	$(MAKE) -f CMakeFiles/Introduction_to_algorithms.dir/build.make CMakeFiles/Introduction_to_algorithms.dir/billian-sort.cpp.s
 .PHONY : billian-sort.cpp.s
+
+test.o: test.cpp.o
+
+.PHONY : test.o
+
+# target to build an object file
+test.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.o
+.PHONY : test.cpp.o
+
+test.i: test.cpp.i
+
+.PHONY : test.i
+
+# target to preprocess a source file
+test.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.i
+.PHONY : test.cpp.i
+
+test.s: test.cpp.s
+
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.s
+.PHONY : test.cpp.s
 
 unique.o: unique.cpp.o
 
@@ -197,12 +237,16 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... edit_cache"
-	@echo "... Introduction_to_algorithms"
 	@echo "... unique"
+	@echo "... Introduction_to_algorithms"
+	@echo "... edit_cache"
+	@echo "... test"
 	@echo "... billian-sort.o"
 	@echo "... billian-sort.i"
 	@echo "... billian-sort.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 	@echo "... unique.o"
 	@echo "... unique.i"
 	@echo "... unique.s"

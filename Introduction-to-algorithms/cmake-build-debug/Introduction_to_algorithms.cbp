@@ -27,11 +27,47 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="edit_cache">
+			<Target title="unique">
+				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/unique" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
-				<Option type="4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 unique"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unique/fast">
+				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/unique" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 unique/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -83,31 +119,18 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="unique">
-				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/unique" prefix_auto="0" extension_auto="0"/>
+			<Target title="edit_cache">
 				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
+				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 unique"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="unique/fast">
-				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/unique" prefix_auto="0" extension_auto="0"/>
+			<Target title="test">
+				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -123,7 +146,30 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 unique/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -132,6 +178,9 @@
 		</Build>
 		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/billian-sort.cpp">
 			<Option target="Introduction_to_algorithms"/>
+		</Unit>
+		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/test.cpp">
+			<Option target="test"/>
 		</Unit>
 		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/unique.cpp">
 			<Option target="unique"/>

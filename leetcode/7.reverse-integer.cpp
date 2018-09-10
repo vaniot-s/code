@@ -37,15 +37,16 @@
 class Solution {
 public:
     int reverse(int x) {
+		//转换为字符串
          std::string s = std::to_string(x);
-		if( s[0] == '-' ){
+		if( s[0] == '-' ){ //负数
 			std::reverse(s.begin()+1, s.end());
-		}else{
+		}else{//非负数
 			std::reverse(s.begin(), s.end());
 		}
 		long long res = std::stoll(s);
 		
-		if( res < -0x7fffffff-1 || res > 0x7fffffff ){
+		if( res < -0x7fffffff-1 || res > 0x7fffffff ){ //范围
 			return 0;
 		}else{
 			return (int)res;
