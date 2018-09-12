@@ -129,8 +129,8 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="test">
-				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+			<Target title="insert_sort">
+				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/insert_sort" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -146,14 +146,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 insert_sort"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="test/fast">
-				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+			<Target title="insert_sort/fast">
+				<Option output="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/insert_sort" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -169,7 +169,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 insert_sort/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -179,8 +179,8 @@
 		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/billian-sort.cpp">
 			<Option target="Introduction_to_algorithms"/>
 		</Unit>
-		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/test.cpp">
-			<Option target="test"/>
+		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/insert_sort.cpp">
+			<Option target="insert_sort"/>
 		</Unit>
 		<Unit filename="/home/vaniot/code/Introduction-to-algorithms/unique.cpp">
 			<Option target="unique"/>

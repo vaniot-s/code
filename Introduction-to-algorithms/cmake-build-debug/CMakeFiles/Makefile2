@@ -139,39 +139,39 @@ clean: CMakeFiles/Introduction_to_algorithms.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/test.dir
+# Target rules for target CMakeFiles/insert_sort.dir
 
 # All Build rule for target.
-CMakeFiles/test.dir/all:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/depend
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target test"
-.PHONY : CMakeFiles/test.dir/all
+CMakeFiles/insert_sort.dir/all:
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/depend
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target insert_sort"
+.PHONY : CMakeFiles/insert_sort.dir/all
 
 # Include target in all.
-all: CMakeFiles/test.dir/all
+all: CMakeFiles/insert_sort.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/test.dir/rule: cmake_check_build_system
+CMakeFiles/insert_sort.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/insert_sort.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaniot/code/Introduction-to-algorithms/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/test.dir/rule
+.PHONY : CMakeFiles/insert_sort.dir/rule
 
 # Convenience name for target.
-test: CMakeFiles/test.dir/rule
+insert_sort: CMakeFiles/insert_sort.dir/rule
 
-.PHONY : test
-
-# clean rule for target.
-CMakeFiles/test.dir/clean:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/clean
-.PHONY : CMakeFiles/test.dir/clean
+.PHONY : insert_sort
 
 # clean rule for target.
-clean: CMakeFiles/test.dir/clean
+CMakeFiles/insert_sort.dir/clean:
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/clean
+.PHONY : CMakeFiles/insert_sort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/insert_sort.dir/clean
 
 .PHONY : clean
 

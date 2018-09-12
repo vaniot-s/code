@@ -48,5 +48,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/unique.dir/DependInfo.cmake"
   "CMakeFiles/Introduction_to_algorithms.dir/DependInfo.cmake"
-  "CMakeFiles/test.dir/DependInfo.cmake"
+  "CMakeFiles/insert_sort.dir/DependInfo.cmake"
   )

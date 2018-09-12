@@ -137,17 +137,17 @@ Introduction_to_algorithms/fast:
 .PHONY : Introduction_to_algorithms/fast
 
 #=============================================================================
-# Target rules for targets named test
+# Target rules for targets named insert_sort
 
 # Build rule for target.
-test: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 test
-.PHONY : test
+insert_sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 insert_sort
+.PHONY : insert_sort
 
 # fast build rule for target.
-test/fast:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
-.PHONY : test/fast
+insert_sort/fast:
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/build
+.PHONY : insert_sort/fast
 
 billian-sort.o: billian-sort.cpp.o
 
@@ -176,32 +176,32 @@ billian-sort.cpp.s:
 	$(MAKE) -f CMakeFiles/Introduction_to_algorithms.dir/build.make CMakeFiles/Introduction_to_algorithms.dir/billian-sort.cpp.s
 .PHONY : billian-sort.cpp.s
 
-test.o: test.cpp.o
+insert_sort.o: insert_sort.cpp.o
 
-.PHONY : test.o
+.PHONY : insert_sort.o
 
 # target to build an object file
-test.cpp.o:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.o
-.PHONY : test.cpp.o
+insert_sort.cpp.o:
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/insert_sort.cpp.o
+.PHONY : insert_sort.cpp.o
 
-test.i: test.cpp.i
+insert_sort.i: insert_sort.cpp.i
 
-.PHONY : test.i
+.PHONY : insert_sort.i
 
 # target to preprocess a source file
-test.cpp.i:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.i
-.PHONY : test.cpp.i
+insert_sort.cpp.i:
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/insert_sort.cpp.i
+.PHONY : insert_sort.cpp.i
 
-test.s: test.cpp.s
+insert_sort.s: insert_sort.cpp.s
 
-.PHONY : test.s
+.PHONY : insert_sort.s
 
 # target to generate assembly for a file
-test.cpp.s:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.s
-.PHONY : test.cpp.s
+insert_sort.cpp.s:
+	$(MAKE) -f CMakeFiles/insert_sort.dir/build.make CMakeFiles/insert_sort.dir/insert_sort.cpp.s
+.PHONY : insert_sort.cpp.s
 
 unique.o: unique.cpp.o
 
@@ -240,13 +240,13 @@ help:
 	@echo "... unique"
 	@echo "... Introduction_to_algorithms"
 	@echo "... edit_cache"
-	@echo "... test"
+	@echo "... insert_sort"
 	@echo "... billian-sort.o"
 	@echo "... billian-sort.i"
 	@echo "... billian-sort.s"
-	@echo "... test.o"
-	@echo "... test.i"
-	@echo "... test.s"
+	@echo "... insert_sort.o"
+	@echo "... insert_sort.i"
+	@echo "... insert_sort.s"
 	@echo "... unique.o"
 	@echo "... unique.i"
 	@echo "... unique.s"
