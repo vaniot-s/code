@@ -61,6 +61,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="946ed14a-a95c-4ac4-bdba-01728a28c621" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../leetcode/21.merge-two-sorted-lists.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/26.remove-duplicates-from-sorted-array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/insert_sort.dir/insert_sort.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/insert_sort.dir/insert_sort.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/insert_sort" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/insert_sort" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insert_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/insert_sort.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -246,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536415853230</updated>
-      <workItem from="1536415854781" duration="14629000" />
+      <workItem from="1536415854781" duration="15169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14629000" />
+    <option name="totallyTimeSpent" value="15169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
