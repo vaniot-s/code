@@ -44,6 +44,10 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        
+        string str="1";
+        for(int j=1;j<n;j++){
+            
+        }
+        return str;
     }
 };
