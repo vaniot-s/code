@@ -29,14 +29,14 @@
 
 class Solution {
 public:
-    int findKthLargest(vector<int>& nums, int k) {
-        for (int i = 0; i <num.size() ; ++i) {
+    int findKthLargest(vector<int>& nums, int k) { //依赖排序
+        for (int i = 0; i <nums.size() ; ++i) { 
             for (int j = i+1; j <nums.size() ; ++j) {
                 if(nums[i]<nums[j]) continue;
                 swap(nums[i],nums[j]);
             }
         }
-        return nums[nums.size()-1-k];
+        return nums[nums.size()-k];
 
     }
 };
