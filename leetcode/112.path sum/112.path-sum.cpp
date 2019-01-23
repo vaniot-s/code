@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=112 lang=cpp
+ * @lc app=leetcode.cn id=112.path sum lang=cpp
  *
- * [112] 路径总和
+ * [112.path sum] 路径总和
  *
  * https://leetcode-cn.com/problems/path-sum/description/
  *

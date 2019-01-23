@@ -32,18 +32,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f0fd771-8102-4028-9af7-90a294a4489f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/.idea/Introduction-to-algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/billian-sort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction-to-algorithms/unique.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.two-sum.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.reverse-integer.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/1.two-sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/1.two sum/1.two-sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/104.maximum-depth-of-binary-tree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/104.maximum depth of binary tree/104.maximum-depth-of-binary-tree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/112.path-sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/112.path sum/112.path-sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/13.roman-to-integer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/13.roman to integer/13.roman-to-integer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/14.longest-common-prefix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/14.longest common prefix/14.longest-common-prefix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/167.two-sum-ii-input-array-is-sorted.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/2.add-two-numbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/2.add two numbers/2.add-two-numbers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/20.valid-parentheses.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/20.valid parenttheses/20.valid-parentheses.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/26.remove-duplicates-from-sorted-array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/26.remove duplicate from sorted array/26.remove-duplicates-from-sorted-array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/27.remove-element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/27.remove element/27.remove-element.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/28.implement-strstr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/28.implement strstr/28.implement-strstr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/35.search-insert-position.0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/35.search insert position/35.search-insert-position.0.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/38.count-and-say.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/38.count and say/38.count-and-say.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/53.maximum-subarray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/53,maximum subarray/53.maximum-subarray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/7.reverse-integer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/7.reverse integer/7.reverse-integer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/9.palindrome-number.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/9.palindrome number/9.palindrome-number.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,9 +82,48 @@
       <usages-collector id="statistics.file.types.edit" />
       <usages-collector id="statistics.file.extensions.edit" />
     </session>
+    <session id="284630103">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="1" />
+          <entry key="h" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/345/main.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/345/main.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/11/main.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,7 +143,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="421" />
-    <option name="y" value="368" />
+    <option name="y" value="80" />
     <option name="width" value="1390" />
     <option name="height" value="1000" />
   </component>
@@ -115,6 +159,11 @@
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -126,6 +175,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leetcode/167.two sum ii input array is sorted" />
+      <recent name="$PROJECT_DIR$/leetcode/112" />
+      <recent name="$PROJECT_DIR$/leetcode/104.maximum depth of binary tree" />
+      <recent name="$PROJECT_DIR$/leetcode/53,maximum subarray" />
+      <recent name="$PROJECT_DIR$/leetcode/38.count and say" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,20 +212,21 @@
       <workItem from="1536394516380" duration="86000" />
       <workItem from="1536402862259" duration="2676000" />
       <workItem from="1536413824534" duration="1240000" />
+      <workItem from="1548224306161" duration="2133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7139000" />
+    <option name="totallyTimeSpent" value="9272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="421" y="368" width="1390" height="1000" extended-state="0" />
+    <frame x="421" y="80" width="1390" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26261127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2928465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -176,7 +235,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TeamCity" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34971428" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34982738" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -194,24 +253,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Introduction-to-algorithms/billian-sort.h" />
     <entry file="file://$PROJECT_DIR$/Introduction-to-algorithms/billian-sort.cpp" />
-    <entry file="file://$PROJECT_DIR$/Introduction-to-algorithms/billian sort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Introduction-to-algorithms/billian sort.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/tests.cpp" />
+    <entry file="file://$PROJECT_DIR$/leetcode/345/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/leetcode/345/main.h">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests.cpp">
+    <entry file="file://$PROJECT_DIR$/leetcode/11/main.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
