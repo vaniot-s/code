@@ -37,7 +37,56 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="array">
+				<Option output="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug/array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="array/fast">
+				<Option output="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug/array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
+		<Unit filename="/home/vaniot/CLionProjects/code/data structure/array/main.cpp">
+			<Option target="array"/>
+		</Unit>
 		<Unit filename="/home/vaniot/CLionProjects/code/data structure/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
