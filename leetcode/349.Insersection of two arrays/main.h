@@ -26,22 +26,23 @@
 #define CODE_MAIN_H
 class Solution {
 public:
-    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        set<int> record;
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) { //o(n)
+        set<int> record; //将记录存入record中
         for(int i=0;i<nums1.size();i++){
             record.insert(nums1[i]);
         }
-        set<int> resultSet;
+        set<int> resultSet; //结果集
         for (int j = 0; j <nums2.size() ; ++j) {
             if (record.find(nums2[j])!=record.end()){
                 resultSet.insert(nums2[j]);
             }
         }
 
-        vector<int> resultVector;
-        for (set<int>::iterator iter=resultSet.begin();iter!=resultSet.end();iter++)
-            resultVector.push_back(*iter);
-        return resultVector;
+//        vector<int> resultVector; //返回
+//        for (set<int>::iterator iter=resultSet.begin();iter!=resultSet.end();iter++)
+//            resultVector.push_back(*iter);
+//        return resultVector;
+         return vector<int>(resultSet.begin(),resultSet.end())
     }
 };
 #endif //CODE_MAIN_H
