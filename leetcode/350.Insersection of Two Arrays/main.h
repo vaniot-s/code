@@ -35,7 +35,7 @@ public:
         /**将元素存于交集中**/
         map<int,int>record;
         for (int i = 0; i < nums1.size(); ++i) {
-            record[nums1[i]]++; //记录出现的频次
+            record[nums1[i]]++; //记录出现的频次,重复也是交集中
         }
 
         vector<int> resultVector;
