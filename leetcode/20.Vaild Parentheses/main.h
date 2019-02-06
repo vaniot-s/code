@@ -1,0 +1,86 @@
+//
+// Created by vaniot on 18-12-10.
+//
+
+#ifndef NOTES_MAIN_H
+#define NOTES_MAIN_H
+
+/**
+ * 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
+
+有效字符串需满足：
+
+    左括号必须用相同类型的右括号闭合。
+    左括号必须以正确的顺序闭合。
+
+注意空字符串可被认为是有效字符串。
+
+示例 1:
+
+输入: "()"
+输出: true
+
+示例 2:
+
+输入: "()[]{}"
+输出: true
+
+示例 3:
+
+输入: "(]"
+输出: false
+
+示例 4:
+
+输入: "([)]"
+输出: false
+
+示例 5:
+
+输入: "{[]}"
+输出: true
+
+ 嵌套关系中找到最近的元素,使用栈
+
+ */
+#include <iostrem>
+#include <cassert>
+#include <string>
+#include <stack>
+
+class main {
+    bool isValid(string s) {
+        stack<char> stack;
+        for (int i=0;i<s.size();i++){
+            if (s[i]=='('||s[i]=='{'||s[i]=='['){
+                stack.push(s[i]);
+            }else{
+                if (stack.size()==0){
+                    return false;
+                }
+                char c=stack.top();
+                stack.pop();
+
+                char match;
+                if (s[i]==')'){
+                    match='(';
+                }else if(s[i]==']') {
+                    match = '[';
+                }else{
+                    assert(s[i]=='}');
+                    match='{';
+                }
+                if (c!=match){
+                    return false;
+                }
+            }
+        }
+        if (stack.size()==0){
+            return false;
+        }
+        return true;
+    }
+};
+
+
+#endif //NOTES_MAIN_H
