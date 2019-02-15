@@ -35,16 +35,36 @@ s: "abab" p: "ab"
 起始索引等于 0 的子串是 "ab", 它是 "ab" 的字母异位词。
 起始索引等于 1 的子串是 "ba", 它是 "ab" 的字母异位词。
 起始索引等于 2 的子串是 "ab", 它是 "ab" 的字母异位词。
+ 返回子串的起始位置
  */
 #ifndef CODE_MAIN_H
 #define CODE_MAIN_H
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-        vector<int> pos;
-        for(int i=0;i<s.size();i++){
-
+        vector<int> pos; //用于存储
+        if(s.empty() || s.size() < p.size())
+            return pos;
+        int left = 0;
+        int right = p.size() - 1;
+        int freqS[26] = { 0 }; //只包含小写字母a~z,数组中保存的是S的子串儿中每个字符出现的次数.对于异构使用表查找,
+        int freqP[26] = { 0 };
+        for (int i = 0; i < p.size(); i++) {
+            freqS[(int)s[i] - (int)'a']++; freqP[(int)p[i] - (int)'a']++;
         }
+        while (right < s.size()) {
+            int i = 0;
+            for ( ; i < 26; i++) {
+                if (freqS[i] != freqP[i]) break;
+            }
+            if(i == 26) pos.push_back(left);
+            if(right + 1 == s.size()) return pos;
+            freqS[(int)s[left] - (int)'a']--;
+            freqS[(int)s[right + 1] - (int)'a']++;
+            left++;
+            right++;
+        }
+        return pos;
     }
 };
 #endif //CODE_MAIN_H
