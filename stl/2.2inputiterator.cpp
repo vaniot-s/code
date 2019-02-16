@@ -13,7 +13,7 @@
 #include <iterator>
 using namespace std;
 int main(int argc,char* argv[]){
-    cout<<"input data like:11 22 33:";
+    cout<<"input data like:11. Container With Most Water 22 33:";
     istream_iterator<int>a(cin);  //键盘输入流，并用istream_iterator枚举整型数据
     istream_iterator<int>b;       //建立输入流结束迭代器
     cout<<"istream:";

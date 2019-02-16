@@ -33,12 +33,12 @@ class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
         /**将元素存于交集中**/
-        map<int,int>record;
+        map<int,int>record; //数字出现的频次
         for (int i = 0; i < nums1.size(); ++i) {
             record[nums1[i]]++; //记录出现的频次,重复也是交集中
         }
 
-        vector<int> resultVector;
+        vector<int> resultVector; //结果
         for (int j = 0; j <nums2.size() ; ++j) {
             if (record[nums2[j]]>0){
                 resultVector.push_back(nums2[j]);

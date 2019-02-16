@@ -34,15 +34,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f0fd771-8102-4028-9af7-90a294a4489f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data structure/THU/list/List.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/THU/list/List.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/THU/list/ListNode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data structure/THU/list/ListNode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/15.3 Sum/solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/15.3 Sum/solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/205.Isomorphic Strings/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/205.Isomorphic Strings/main.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structure/THU/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/data structure/THU/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/438.Find All Anagrams in a String/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/438.Find All Anagrams in a String/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data structure/array/MyVector.h" beforeDir="false" afterPath="$PROJECT_DIR$/data structure/array/MyVector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data structure/array/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/data structure/array/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/1.two sum/1.two-sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/1.two sum/1.two-sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/102.Binary Tree Level Order Traversal/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/102.Binary Tree Level Order Traversal/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/102.Binary Tree Level Order Traversal/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/102.Binary Tree Level Order Traversal/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/11/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/11. Container With Most Water/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/11/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/11. Container With Most Water/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/112.Path Sum/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/112.Path Sum/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/112.path sum/112.path-sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/112.path sum/112.path-sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/145. Binary Tree Postorder Traversal/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/145. Binary Tree Postorder Traversal/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/145. Binary Tree Postorder Traversal/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/145. Binary Tree Postorder Traversal/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/167.Two Sum II/TwoSum.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/167.Two Sum II/TwoSum.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/279.Perfect Squares/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/279.Perfect Squares/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/279.Perfect Squares/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/279.Perfect Squares/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/290.Word Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/290.Word Pattern/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/290.Word Pattern/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/290.Word Pattern/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/3.priority_queue/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/3.priority_queue/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/3.priority_queue/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/3.priority_queue/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/347.Top K Frequent Elements/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/349.Insersection of two arrays/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/349.Insersection of two arrays/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/350.Insersection of Two Arrays/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/350.Insersection of Two Arrays/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/38.count and say/38.count-and-say.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/38.count and say/38.count-and-say.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/454,4Sum/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/454.4 Sum/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/454,4Sum/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/454.4 Sum/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/94.Binary Tree Inorder Traversal/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/94.Binary Tree Inorder Traversal/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/94.Binary Tree Inorder Traversal/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/94.Binary Tree Inorder Traversal/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stl/2.2inputiterator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/stl/2.2inputiterator.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/data structure/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +121,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="32" />
-          <entry key="h" value="68" />
+          <entry key="cpp" value="40" />
+          <entry key="h" value="81" />
           <entry key="md" value="3" />
           <entry key="txt" value="2" />
         </counts>
@@ -100,13 +131,13 @@
         <counts>
           <entry key="CMakeLists.txt" value="2" />
           <entry key="Markdown" value="3" />
-          <entry key="ObjectiveC" value="100" />
+          <entry key="ObjectiveC" value="121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cpp" value="79" />
-          <entry key="h" value="2315" />
+          <entry key="h" value="2455" />
           <entry key="md" value="120" />
           <entry key="txt" value="24" />
         </counts>
@@ -114,9 +145,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="24" />
-          <entry key="Doxygen file" value="10" />
+          <entry key="Doxygen file" value="21" />
           <entry key="Markdown" value="120" />
-          <entry key="ObjectiveC" value="2384" />
+          <entry key="ObjectiveC" value="2513" />
         </counts>
       </usages-collector>
     </session>
@@ -124,103 +155,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/THU/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/THU/list/ListNode.cpp">
+        <entry file="file://$PROJECT_DIR$/leetcode/15.3 Sum/solution.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/THU/list/ListNode.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-              <folding>
-                <element signature="e#179#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/THU/list/List.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data structure/THU/list/List.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
-              <folding>
-                <element signature="e#160#172#0" expanded="true" />
-                <element signature="e#351#363#0" expanded="true" />
-                <element signature="e#610#622#0" expanded="true" />
-                <element signature="e#790#802#0" expanded="true" />
-                <element signature="e#1032#1044#0" expanded="true" />
-                <element signature="e#1231#1243#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/3.longest Subsrting Without Repeating/main.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.cpp">
+        <entry file="file://$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h">
+        <entry file="file://$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="660">
+              <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/1.two sum/1.two-sum.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/454.4 Sum/main.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/438.Find All Anagrams in a String/main.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/345/main.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/leetcode/51.N-Queens/main.h">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -235,12 +236,9 @@
         <option value="$PROJECT_DIR$/leetcode/4/main.cpp" />
         <option value="$PROJECT_DIR$/leetcode/4/main.h" />
         <option value="$PROJECT_DIR$/leetcode/80/80.h" />
-        <option value="$PROJECT_DIR$/leetcode/350.Insersection of Two Arrays/main.h" />
-        <option value="$PROJECT_DIR$/leetcode/349.Insersection of two arrays/main.h" />
         <option value="$PROJECT_DIR$/leetcode/242.Valid Anagram/main.h" />
         <option value="$PROJECT_DIR$/leetcode/202.Happy Number/main.cpp" />
         <option value="$PROJECT_DIR$/leetcode/202.Happy Number/main.h" />
-        <option value="$PROJECT_DIR$/leetcode/290.Word Pattern/main.h" />
         <option value="$PROJECT_DIR$/data structure/array/array.h" />
         <option value="$PROJECT_DIR$/data structure/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -248,8 +246,16 @@
         <option value="$PROJECT_DIR$/data structure/THU/list/list.h" />
         <option value="$PROJECT_DIR$/data structure/THU/list/List.cpp" />
         <option value="$PROJECT_DIR$/data structure/THU/list/List.h" />
-        <option value="$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h" />
         <option value="$PROJECT_DIR$/leetcode/438.Find All Anagrams in a String/main.h" />
+        <option value="$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h" />
+        <option value="$PROJECT_DIR$/leetcode/349.Insersection of two arrays/main.h" />
+        <option value="$PROJECT_DIR$/leetcode/350.Insersection of Two Arrays/main.h" />
+        <option value="$PROJECT_DIR$/leetcode/290.Word Pattern/main.h" />
+        <option value="$PROJECT_DIR$/leetcode/205.Isomorphic Strings/main.h" />
+        <option value="$PROJECT_DIR$/leetcode/15.3 Sum/solution.h" />
+        <option value="$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.h" />
+        <option value="$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.h" />
+        <option value="$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.h" />
       </list>
     </option>
   </component>
@@ -261,8 +267,8 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="331" />
-    <option name="y" value="27" />
+    <option name="x" value="511" />
+    <option name="y" value="47" />
     <option name="width" value="1380" />
     <option name="height" value="1000" />
   </component>
@@ -296,30 +302,6 @@
               <item name="Introduction_to_algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Introduction_to_algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="3.longest Subsrting Without Repeating" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Introduction_to_algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="76.Minimum window Substring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Introduction_to_algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="345" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Introduction_to_algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="438.Find All Anagrams in a String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,22 +375,21 @@
       <workItem from="1548658133297" duration="1221000" />
       <workItem from="1549209054713" duration="1055000" />
       <workItem from="1549338559709" duration="22614000" />
-      <workItem from="1550021460293" duration="8560000" />
+      <workItem from="1550021460293" duration="13588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44040000" />
+    <option name="totallyTimeSpent" value="49068000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="27" width="1380" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="511" y="47" width="1380" height="1000" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3153961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30967742" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -446,60 +427,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/447.number of boomerange/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/454,4Sum/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/19.Remove Nth Node From End of List/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/24.Swap Nodes in Pairs/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/92.ReverseLinkedListII/mian.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/203.Remove Linked List Elements/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/206.Reverse Linked List/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/20.Vaild Parentheses/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/94.Binary Tree Inorder Traversal/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/144.Binary Tree Preorder Traversal/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/145. Binary Tree Postorder Traversal/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/102.Binary Tree Level Order Traversal/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/279.Perfect Squares/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/104.Maximum Depth of Binary Tree/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/112.Path Sum/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/226.invet binary tree/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/235.Lowest Common Ancestor of Bianry Search Tree/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/257.Binary Tree paths/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/437.Path Sum III/main.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -507,9 +434,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/46.Permutations/main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/51.N-Queens/main.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/77.Combinations/main.h">
@@ -655,26 +579,123 @@
     <entry file="file://$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/345/main.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/438.Find All Anagrams in a String/main.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/76.Minimum window Substring/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/345/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/349.Insersection of two arrays/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/350.Insersection of Two Arrays/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/242.Valid Anagram/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/290.Word Pattern/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/290.Word Pattern/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/205.Isomorphic Strings/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/205.Isomorphic Strings/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/4/main.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/15.3 Sum/solution.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/15.3 Sum/solution.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/451. Sort Characters By Frequency/Solution.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/1.two sum/1.two-sum.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/16. 3Sum Closest/Solution.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/454.4 Sum/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/51.N-Queens/main.h">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

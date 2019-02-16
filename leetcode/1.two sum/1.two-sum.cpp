@@ -7,7 +7,7 @@
  * Easy (42.94%)
  * Total Accepted:    97.4K
  * Total Submissions: 226.9K
- * Testcase Example:  '[2,7,11,15]\n9'
+ * Testcase Example:  '[2,7,11. Container With Most Water,15]\n9'
  *
  * 给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。
  * 
@@ -15,7 +15,7 @@
  * 
  * 示例:
  * 
- * 给定 nums = [2, 7, 11, 15], target = 9
+ * 给定 nums = [2, 7, 11. Container With Most Water, 15], target = 9
  * 
  * 因为 nums[0] + nums[1] = 2 + 7 = 9
  * 所以返回 [0, 1]
