@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vaniot/CLionProjects/code/data structure/array/main.cpp" "/home/vaniot/CLionProjects/code/data structure/cmake-build-debug/CMakeFiles/array.dir/array/main.cpp.o"
+  "/home/vaniot/dev/Clion/code/data structure/array/main.cpp" "/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/CMakeFiles/array.dir/array/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

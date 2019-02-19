@@ -8,38 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
+				<Option working_dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
+				<Option working_dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="array">
-				<Option output="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug/array" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
+				<Option output="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 array"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="array/fast">
-				<Option output="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug/array" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/vaniot/CLionProjects/code/data structure/cmake-build-debug"/>
+				<Option output="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +67,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 array/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/CLionProjects/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vaniot/dev/Clion/code/data\ structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/vaniot/CLionProjects/code/data structure/array/main.cpp">
+		<Unit filename="/home/vaniot/dev/Clion/code/data structure/array/main.cpp">
 			<Option target="array"/>
 		</Unit>
-		<Unit filename="/home/vaniot/CLionProjects/code/data structure/CMakeLists.txt">
+		<Unit filename="/home/vaniot/dev/Clion/code/data structure/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
