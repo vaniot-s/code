@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = "/home/vaniot/dev/Clion/code/data structure/cmake-build-debug
 CMakeFiles/array.dir/all:
 	$(MAKE) -f CMakeFiles/array.dir/build.make CMakeFiles/array.dir/depend
 	$(MAKE) -f CMakeFiles/array.dir/build.make CMakeFiles/array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target array"
 .PHONY : CMakeFiles/array.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/array.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/array.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/CMakeFiles" 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/array.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/array.dir/rule

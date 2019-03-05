@@ -87,6 +87,12 @@
 		<Unit filename="/home/vaniot/dev/Clion/code/data structure/array/main.cpp">
 			<Option target="array"/>
 		</Unit>
+		<Unit filename="/home/vaniot/dev/Clion/code/leetcode/217.Contains Duplicate/main.cpp">
+			<Option target="array"/>
+		</Unit>
+		<Unit filename="/home/vaniot/dev/Clion/code/leetcode/217.Contains Duplicate/main.h">
+			<Option target="array"/>
+		</Unit>
 		<Unit filename="/home/vaniot/dev/Clion/code/data structure/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
