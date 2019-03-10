@@ -8,3 +8,5 @@ leetcode 习题解集
 |125.Valid Palindrome|Easy|C++|
 |167.Two Sum `||`|Easy|C++|
 |215.Kth Large Element in an Array|middle|C++|
+|[ ] 86||
+| [ ]92|
