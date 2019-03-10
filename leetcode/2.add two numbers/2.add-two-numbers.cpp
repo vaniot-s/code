@@ -31,7 +31,27 @@
  */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        
+    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {
+        ListNode *result = new ListNode(0);
+        ListNode *indexList = result, *p = l1, *q = l2;
+        int carry = 0;
+        while (p || q) {
+            int a = p ? p->val : 0;
+            int b = q ? q->val : 0;
+            int sum = a + b + carry;
+
+            carry = int(sum / 10);
+            indexList->next = new ListNode(sum % 10);
+            indexList = indexList->next;
+
+            p = p ? p->next : p;
+            q = q ? q->next : q;
+        }
+
+        if (carry > 0) {
+            indexList->next = new ListNode(carry);
+        }
+
+        return result->next;
     }
 };
