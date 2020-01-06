@@ -1,4 +1,4 @@
-# Install script for directory: /home/vaniot/dev/Clion/code/data structure
+# Install script for directory: /home/kuili/dev/code/data structure
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/vaniot/dev/Clion/code/data structure/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kuili/dev/code/data structure/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

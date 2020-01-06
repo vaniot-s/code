@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/array.dir/array/main.cpp.o"
-  "CMakeFiles/array.dir/home/vaniot/dev/Clion/code/leetcode/217.Contains_Duplicate/main.cpp.o"
-  "array.pdb"
+  "CMakeFiles/array.dir/home/kuili/dev/code/leetcode/217.Contains_Duplicate/main.cpp.o"
   "array"
+  "array.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
