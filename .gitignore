@@ -33,8 +33,4 @@
 *.out
 *.app
 
-将删除 data structure/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/tmp/
-将删除 data structure/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/tmp/
-将删除 data structure/cmake-build-debug/CMakeFiles/CMakeTmp/
-将删除 data structure/cmake-build-debug/CMakeFiles/array.dir/array/
-将删除 data structure/cmake-build-debug/CMakeFiles/array.dir/home/
+.idea
