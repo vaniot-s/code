@@ -34,26 +34,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f0fd771-8102-4028-9af7-90a294a4489f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/120.Triangle/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/120.Triangle/main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/64.Minimum Path Sum/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/64.Minimum Path Sum/main.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classic algorithm/1.sort/n^２/SortTestHelper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classic algorithm/1.sort/n^２/student.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/104.maximum depth of binary tree/104.maximum-depth-of-binary-tree.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/11. Container With Most Water/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/11.Container With Most Water/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/11. Container With Most Water/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/11.Container With Most Water/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/112.path sum/112.path-sum.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/5.Longest Palindromic Substrin/Solution.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/5. Longest Palindromic Substrin/Solution.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/5.Longest Palindromic Substrin/Solution.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/71. Simplify Path/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/71.Simplify Path/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/71. Simplify Path/solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/71.Simplify Path/solution.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/71. Simplify Path/solution.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/71.Simplify Path/solution.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/83. Remove Duplicates from Sorted List/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/83.Remove Duplicates from Sorted List/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/83. Remove Duplicates from Sorted List/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/83.Remove Duplicates from Sorted List/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/83. Remove Duplicates from Sorted List/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/83.Remove Duplicates from Sorted List/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/86. Partition List/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/86.Partition List/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/92.ReverseLinkedListII/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data structure/cmake-build-debug/CMakeFiles/array.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/data structure/cmake-build-debug/CMakeFiles/array.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/64.Minimum Path Sum/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/64.Minimum Path Sum/main.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,19 +73,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classic algorithm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/classic algroithm/1.sort/select-sort" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classic algorithm/1.sort/n^２" />
+      <recent name="$PROJECT_DIR$/classic algroithm/1.sort" />
       <recent name="$PROJECT_DIR$/leetcode/150.Evaluate Reverse Polish Notation" />
       <recent name="$PROJECT_DIR$/leetcode" />
       <recent name="$PROJECT_DIR$/leetcode/167.two sum ii input array is sorted" />
-      <recent name="$PROJECT_DIR$/leetcode/112" />
-      <recent name="$PROJECT_DIR$/leetcode/104.maximum depth of binary tree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classic algroithm" />
       <recent name="$PROJECT_DIR$/data structure/array" />
       <recent name="$PROJECT_DIR$/leetcode" />
       <recent name="$PROJECT_DIR$/leetcode/1.two sum" />
@@ -162,7 +149,10 @@
       <workItem from="1551803897106" duration="2362000" />
       <workItem from="1551894562194" duration="661000" />
       <workItem from="1552142643157" duration="14815000" />
-      <workItem from="1578326179591" duration="7225000" />
+      <workItem from="1578326179591" duration="9256000" />
+      <workItem from="1580738604439" duration="206000" />
+      <workItem from="1580738833518" duration="14314000" />
+      <workItem from="1581057892675" duration="3407000" />
     </task>
     <servers />
   </component>
@@ -174,7 +164,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
