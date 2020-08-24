@@ -4,11 +4,15 @@ leetcode 习题解集
 |习题|类型|难度|语言|
 |---|----|----|---|
 |1.Twosum|未归档|Easy|C++|
+|2.add two numbers|未归档|Easy|C++|
+|3.Twosum|未归档|Easy|C++|
+|4.Twosum|未归档|Easy|C++|
 |[ ]64.Minimum Path Sum|dp|||
 |70.Climbing Stairs|dp|Esay|C++|
 |88.Merge Sorted Array|数组|Easy|C++|
 |[ ]86|未归档|||
 |92.ReverseLinkedListII|链表|Esay|C++|
+|105.construct-binary-tree-from-preorder-and-inorder-traversal|二叉树|Easy|golang|
 |120.Triangle|dp|middle|C++|
 |125.Valid Palindrome|未归档|Easy|C++|
 |167.Two SumII|数组|Easy|C++|
