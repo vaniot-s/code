@@ -17,4 +17,5 @@ leetcode 习题解集
 |125.Valid Palindrome|未归档|Easy|C++|
 |167.Two SumII|数组|Easy|C++|
 |215.Kth Large Element in an Array|未归档|middle|C++|
+|867. Transpose Matrix|数组｜easy|golang|
 
