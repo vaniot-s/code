@@ -64,7 +64,7 @@ public:
         //     }
         // }
         // return nums.size();
-          int pos = 0;
+        int pos = 0;
         for (int i=0; i<nums.size(); i++){
             if (nums[i] != val){
                 nums[pos++] = nums[i]; 

@@ -61,31 +61,16 @@
  * }
  */
 func isSameTree(p *TreeNode, q *TreeNode) bool {
-	result1 = preordertravesl(p)
-	result2 = preordertravesl(q)
-	if int.Equal(p, q) {
+	if p == nil && q == nil {
 		return true
 	}
-	return false
-}
-
-func preordertravesl(tree *TreeNode) []int {
-	if tree == nil {
-		return nil
+	if p == nil || q == nil {
+		return false
 	}
-	result := make([]int, 0)
-	stack := make([]*TreeNode, 0)
-	for root != nil || len(stack) != 0 {
-		for root != nil {
-			result = append(result, root.Val)
-			stack = append(stack, root)
-			root = root.Left
-		}
-		node := stack[len(stack)-1]
-		stack = stack[:len(stack)-1]
-		root = node.Right
+	if p.Val != q.Val {
+		return false
 	}
-	return result
+	return isSameTree(p.Left, q.Left) && isSameTree(p.Right, q.Right)
 }
 
 // @lc code=end

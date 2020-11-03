@@ -14,7 +14,7 @@ leetcode 习题解集
 |88.Merge Sorted Array|数组|Easy|C++|
 |[ ]86|未归档|||
 |92.ReverseLinkedListII|链表|Esay|C++|
-|[]100|树|easy||
+|100.Same Tree|树|easy|golang|
 |105.construct-binary-tree-from-preorder-and-inorder-traversal|二叉树|Easy|golang|
 |[]193||||
 |120.Triangle|dp|middle|C++|
@@ -23,5 +23,6 @@ leetcode 习题解集
 |[]169||||
 |[]193||||
 |215.Kth Large Element in an Array|未归档|middle|C++|
+|283. Move Zeroes|数组|easy|golang|
 |867. Transpose Matrix|数组｜easy|golang|
 
