@@ -52,14 +52,16 @@
  */
 
 // @lc code=start
-/**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
- */
+
+//Definition for a binary tree node.
+package _00_Same_Tree
+
+type TreeNode struct {
+	Val int
+    Left *TreeNode
+    Right *TreeNode
+ }
+
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	if p == nil && q == nil {
 		return true
