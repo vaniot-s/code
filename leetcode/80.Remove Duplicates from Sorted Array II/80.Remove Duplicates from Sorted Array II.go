@@ -44,10 +44,21 @@ nums 按递增顺序排列
 */
 // 返回的结果为结果数组的长度
 func removeDuplicates(nums []int) int {
-	if len(nums)<=2{
+	if len(nums) <= 2 {
 		return len(nums)
 	}
-
-	//k:=1 //指向
-
+	n, p, s := len(nums), 1, 1
+	for i := 1; i < n; i++ {
+		if nums[i] > nums[p-1] {
+			s = 1
+		} else if s == 1 && nums[i] == nums[p-1] {
+			s = 0
+		} else {
+			continue
+		}
+		nums[p] = nums[i]
+		p++
+	}
+	return p
 }
+
