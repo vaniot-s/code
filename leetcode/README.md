@@ -26,6 +26,7 @@ leetcode 习题解集
 |120.Triangle|dp|medium|C++||
 |124.Binary Tree Maximum Path Sum|二叉树|medium|gloang||
 |125.Valid Palindrome|未归档|easy|C++||
+|136.single-number||easy|go||
 |167.Two SumII|数组|Easy|C++||
 |[]169|||||
 |189. Rotate Array|数组|easy|golang||
