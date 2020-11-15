@@ -10,6 +10,7 @@ leetcode 习题解集
 |26.Remove Duplicates from Sorted Array|数组|easy|golang|做好初始定义|
 |27.Remove Element|数组|Easy|golang|做好初始定义|
 |[]31|||||
+|34. Find First and Last Position of Element in Sorted Array|数组|easy|golang|二分|
 |42.Trapping Rain Water|数组|hard|golang|双指针|
 |[]64.Minimum Path Sum|dp||||
 |[]67|||||
@@ -35,5 +36,7 @@ leetcode 习题解集
 /260. Single Number III|数组|medium|golang||
 |283.Move Zeroes|数组|easy|golang|做好初始定义|
 |345.Reverse Vowels of a String|string|easy|c++,[]golang||
+/628. Maximum Product of Three Numbers|数组|easy|golang||
 |867.Transpose Matrix|数组|easy|golang||
+|977.Squares of a Sorted Array |数组|easy|golang||
 

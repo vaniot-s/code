@@ -1,4 +1,4 @@
-package _67
+package _67_Transpose_Matrix
 
 func transpose(A [][]int) [][]int {
 	if len(A) == 0 {
